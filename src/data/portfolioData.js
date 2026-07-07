@@ -19,7 +19,7 @@ export const personalInfo = {
   ],
   tagline:
     "Building intelligent systems that turn data into impact — from ML pipelines to production-ready AI products.",
-  email: "prajapatiashish3180.com",
+  email: "prajapatiashish3180@gmail.com",
   resumeUrl: "/resume.pdf",
   social: {
     github: "https://github.com/ash3180",
